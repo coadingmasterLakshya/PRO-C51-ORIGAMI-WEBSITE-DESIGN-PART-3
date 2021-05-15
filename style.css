@@ -1,0 +1,55 @@
+.header {
+
+    background-color: #ff0000; 
+
+}
+*{
+
+    border:solid;
+
+}
+
+.img {
+
+    background-color: #7fff00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.text1 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text2 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text3 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.make{
+
+    background-color: #ff77e8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
